@@ -10,7 +10,7 @@ Here's the screen recording (with audio) of my assistant: [./demo.webm](demo.web
 
 Here's the link to my onshape model: <https://cad.onshape.com/documents/55db4cfc1e30219ea9eddda8/w/44bd6c9fec3d834e2e2c1732/e/7c44ba390dc78aad5aae2d44?renderMode=0&uiState=6819f7ddc4b7da7a6bb72048>
 
-My Slack username if @Jannik
+My Slack username: @Jannik
 
 ## Bom
 
